@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://sgonyea.com
-title: Scott Gonyea :: Blog
-subtitle: Just a blog
+title: "Scott Gonyea :: Blog"
+subtitle: YARB
 author: Scott Gonyea
-simple_search: http://google.com/search
-description:
+simple_search: "http://google.com/search"
+description: "Scott Gonyea's Blog"
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -59,17 +59,17 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 
 # Github repositories
 github_user: sgonyea
-github_repo_count: 0
+github_repo_count: 5
 github_show_profile_link: true
-github_skip_forks: true
+github_skip_forks: false
 
 # Twitter
 twitter_user: scottgonyea
-twitter_tweet_count: 4
+twitter_tweet_count: 5
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false
