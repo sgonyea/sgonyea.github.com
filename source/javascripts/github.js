@@ -16,10 +16,6 @@ var github = (function(){
     t.innerHTML = fragment;
   }
 
-  function callApiForPage(page) {
-    return user.repos(collectAllRepos, this, page);
-  }
-
   function sortReposByDate(repos) {
     repos.sort(function(a, b) {
       var aDate = new Date(a.pushed_at).valueOf(),
@@ -71,6 +67,10 @@ var github = (function(){
     }
 
     return mungeReposAndRender();
+  }
+
+  function callApiForPage(page) {
+    return user.repos(collectAllRepos, this, page);
   }
 
   return {
