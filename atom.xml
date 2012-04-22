@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Scott Gonyea :: Blog]]></title>
+  <link href="http://sgonyea.github.com/sgonyea/atom.xml" rel="self"/>
+  <link href="http://sgonyea.github.com/sgonyea/"/>
+  <updated>2012-04-21T19:20:05-07:00</updated>
+  <id>http://sgonyea.github.com/sgonyea/</id>
+  <author>
+    <name><![CDATA[Scott Gonyea]]></name>
+    <email><![CDATA[me@sgonyea.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
