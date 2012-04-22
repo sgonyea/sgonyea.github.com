@@ -2,15 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Scott Gonyea :: Blog]]></title>
-  <link href="http://sgonyea.github.com/sgonyea/atom.xml" rel="self"/>
-  <link href="http://sgonyea.github.com/sgonyea/"/>
-  <updated>2012-04-21T19:20:05-07:00</updated>
-  <id>http://sgonyea.github.com/sgonyea/</id>
+  <link href="http://sgonyea.github.com/atom.xml" rel="self"/>
+  <link href="http://sgonyea.github.com/"/>
+  <updated>2012-04-21T19:21:59-07:00</updated>
+  <id>http://sgonyea.github.com/</id>
   <author>
     <name><![CDATA[Scott Gonyea]]></name>
     <email><![CDATA[me@sgonyea.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Testing again]]></title>
+    <link href="http://sgonyea.github.com/blog/2012/04/21/testing-again/"/>
+    <updated>2012-04-21T19:21:00-07:00</updated>
+    <id>http://sgonyea.github.com/blog/2012/04/21/testing-again</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
