@@ -44,6 +44,10 @@ var github = (function(){
       if (options.skip_forks && allRepos[i].fork)
         continue;
 
+      // Don't show changes to this blog, obviously.
+      if (allRepos[i].name === options.user + ".github.com")
+        continue;
+
       repos.push(allRepos[i]);
     }
 
