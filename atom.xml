@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Scott Gonyea :: Blog]]></title>
-  <link href="http://sgonyea.com/atom.xml" rel="self"/>
-  <link href="http://sgonyea.com/"/>
-  <updated>2012-04-21T20:11:14-07:00</updated>
-  <id>http://sgonyea.com/</id>
+  <link href="http://sgonyea.github.com/atom.xml" rel="self"/>
+  <link href="http://sgonyea.github.com/"/>
+  <updated>2012-04-21T20:13:30-07:00</updated>
+  <id>http://sgonyea.github.com/</id>
   <author>
     <name><![CDATA[Scott Gonyea]]></name>
     <email><![CDATA[me@sgonyea.com]]></email>
