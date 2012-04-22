@@ -12,7 +12,7 @@
 			<key>regexFileFilter</key>
 			<string>!.*\.(o|DS_Store|jar|war|class|rbc|log|job)</string>
 			<key>regexFolderFilter</key>
-			<string>!\.(git|pygments-cache|sass-cache|themes)</string>
+			<string>!(\..*|public|_deploy)</string>
 			<key>selected</key>
 			<true/>
 			<key>sourceDirectory</key>
